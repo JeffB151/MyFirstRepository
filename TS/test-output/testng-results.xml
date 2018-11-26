@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="121300" started-at="2018-10-05T01:06:01Z" finished-at="2018-10-05T01:08:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="121300" started-at="2018-10-05T01:06:01Z" finished-at="2018-10-05T01:08:03Z">
+      <class name="testCases.FileUploadsTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.FileUploadsTest@77caeb3e]" name="beforeMethod" is-config="true" duration-ms="6270" started-at="2018-10-05T01:06:01Z" finished-at="2018-10-05T01:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="stockTake_xlsx_File_Upload_Test()[pri:8, instance:testCases.FileUploadsTest@77caeb3e]" name="stockTake_xlsx_File_Upload_Test" duration-ms="53185" started-at="2018-10-05T01:06:08Z" finished-at="2018-10-05T01:07:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stockTake_xlsx_File_Upload_Test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testCases.FileUploadsTest@77caeb3e]" name="afterMethod" is-config="true" duration-ms="690" started-at="2018-10-05T01:07:01Z" finished-at="2018-10-05T01:07:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.FileUploadsTest@77caeb3e]" name="beforeMethod" is-config="true" duration-ms="5266" started-at="2018-10-05T01:07:01Z" finished-at="2018-10-05T01:07:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="stockTake_xls_File_Upload_Test()[pri:9, instance:testCases.FileUploadsTest@77caeb3e]" name="stockTake_xls_File_Upload_Test" duration-ms="55201" started-at="2018-10-05T01:07:07Z" finished-at="2018-10-05T01:08:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stockTake_xls_File_Upload_Test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testCases.FileUploadsTest@77caeb3e]" name="afterMethod" is-config="true" duration-ms="669" started-at="2018-10-05T01:08:02Z" finished-at="2018-10-05T01:08:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testCases.FileUploadsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
